@@ -124,3 +124,12 @@ button:hover{
     box-shadow: 0px 15px 20px  #15698d;
 
 }
+footer{
+    background-color: #2b2929;
+    width:100%;
+    height: 50px;
+    color: #eaece5;
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    font-weight: 700;
+}
